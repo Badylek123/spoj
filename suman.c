@@ -1,1 +1,1 @@
-main(a){for(;~scanf(%d,&a);)printf(%dn,a*-~a/2);}
+main(a){for(;~scanf(%d,&a);)printf("%d\n",a*-~a/2);}
